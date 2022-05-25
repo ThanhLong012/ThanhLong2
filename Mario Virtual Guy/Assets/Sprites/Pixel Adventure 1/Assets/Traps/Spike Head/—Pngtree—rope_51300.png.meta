@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: 83b602015d46217458ac580adfd69ab6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 309996608888491256
+    second: "\u2014Pngtree\u2014rope_51300_0"
+  - first:
+      213: 2626635096174632816
+    second: "\u2014Pngtree\u2014rope_51300_1"
+  - first:
+      213: -2862530141118574385
+    second: "\u2014Pngtree\u2014rope_51300_2"
+  - first:
+      213: 3458475974171546940
+    second: "\u2014Pngtree\u2014rope_51300_3"
+  - first:
+      213: -3192401202511159415
+    second: "\u2014Pngtree\u2014rope_51300_4"
+  - first:
+      213: 1274481580561900827
+    second: "\u2014Pngtree\u2014rope_51300_5"
+  - first:
+      213: 9028400470765375588
+    second: "\u2014Pngtree\u2014rope_51300_6"
+  - first:
+      213: -4408584831337897890
+    second: "\u2014Pngtree\u2014rope_51300_7"
+  - first:
+      213: 2926127963648537839
+    second: "\u2014Pngtree\u2014rope_51300_8"
+  - first:
+      213: 929966865194611873
+    second: "\u2014Pngtree\u2014rope_51300_9"
+  - first:
+      213: -7596469325956856911
+    second: "\u2014Pngtree\u2014rope_51300_10"
+  - first:
+      213: 7104152207009246877
+    second: "\u2014Pngtree\u2014rope_51300_11"
+  - first:
+      213: 5394172127084606061
+    second: "\u2014Pngtree\u2014rope_51300_12"
+  - first:
+      213: -8060176569223664204
+    second: "\u2014Pngtree\u2014rope_51300_13"
+  - first:
+      213: 8545071145883948995
+    second: "\u2014Pngtree\u2014rope_51300_14"
+  - first:
+      213: -3453525894454307273
+    second: "\u2014Pngtree\u2014rope_51300_15"
+  - first:
+      213: -5577808644171225049
+    second: "\u2014Pngtree\u2014rope_51300_16"
+  - first:
+      213: -4693179389642328026
+    second: "\u2014Pngtree\u2014rope_51300_17"
+  - first:
+      213: 6670661708266223056
+    second: "\u2014Pngtree\u2014rope_51300_18"
+  - first:
+      213: 8587400229400939018
+    second: "\u2014Pngtree\u2014rope_51300_19"
+  - first:
+      213: -6845127668282793927
+    second: "\u2014Pngtree\u2014rope_51300_20"
+  - first:
+      213: 8317798927823987846
+    second: "\u2014Pngtree\u2014rope_51300_21"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_0"
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1188
+        width: 57
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fccf5af5445d4400800000000000000
+      internalID: 309996608888491256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_1"
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1176
+        width: 61
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f101614bea37420800000000000000
+      internalID: 2626635096174632816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_2"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1163
+        width: 59
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc057c3c0004648d0800000000000000
+      internalID: -2862530141118574385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_3"
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1147
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35d7b02399feff20800000000000000
+      internalID: 3458475974171546940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_4"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1131
+        width: 57
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fdac7350052b3d0800000000000000
+      internalID: -3192401202511159415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_5"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1116
+        width: 60
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15ab2abe3edfa110800000000000000
+      internalID: 1274481580561900827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_6"
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1100
+        width: 60
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46090f5c4625b4d70800000000000000
+      internalID: 9028400470765375588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_7"
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1083
+        width: 60
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50eded147f81d2c0800000000000000
+      internalID: -4408584831337897890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_8"
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1068
+        width: 60
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4bb9031e1bb9820800000000000000
+      internalID: 2926127963648537839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_9"
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1048
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4fecccfe7e7ec00800000000000000
+      internalID: 929966865194611873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_10"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1031
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3c037556be39690800000000000000
+      internalID: -7596469325956856911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_11"
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1010
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ee719fac4079260800000000000000
+      internalID: 7104152207009246877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_12"
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 991
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62f03458f2fbda40800000000000000
+      internalID: 5394172127084606061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_13"
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 967
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd2f7c6d10842090800000000000000
+      internalID: -8060176569223664204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_14"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 947
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c75ad6fee0369670800000000000000
+      internalID: 8545071145883948995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_15"
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 920
+        width: 63
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736107e1f7c9210d0800000000000000
+      internalID: -3453525894454307273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_16"
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 898
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72822133794a792b0800000000000000
+      internalID: -5577808644171225049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_17"
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 873
+        width: 65
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6283f2de53a7edeb0800000000000000
+      internalID: -4693179389642328026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_18"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 851
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d532022b73f29c50800000000000000
+      internalID: 6670661708266223056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_19"
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 824
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a0d89b2039c2770800000000000000
+      internalID: 8587400229400939018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_20"
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 808
+        width: 67
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9306ec917a83101a0800000000000000
+      internalID: -6845127668282793927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014rope_51300_21"
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 793
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684e2162e02ce6370800000000000000
+      internalID: 8317798927823987846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
